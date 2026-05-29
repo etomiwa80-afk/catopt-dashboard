@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+*.rds
+.env
+.DS_Store
+__pycache__/
+*.pyc
+data/
